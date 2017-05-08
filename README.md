@@ -1,2 +1,2 @@
 # seed_code
-Useful seed code
+Useful starter code for a variety of purposes.
